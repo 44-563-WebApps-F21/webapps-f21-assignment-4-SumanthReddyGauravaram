@@ -4,7 +4,7 @@
     font-family: Times;
     size: 0ch;
     font-size:14;
-    background-color: aliceblue;
+    background-color:cornflowerblue;
 }
 
 .stage-direction 
@@ -16,7 +16,7 @@
     background-color: aliceblue;
 }
 
-.stage-direction.hover
+.stage-direction:hover
 {
     color:blue;
     background-color:bisque;
@@ -28,7 +28,7 @@
     font-family: Times;
     size: 0ch;
     font-size:14;
-    background-color: aliceblue;
+    background-color:darkred;
 }
 
 .JAMES
