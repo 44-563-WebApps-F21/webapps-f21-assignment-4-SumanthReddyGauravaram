@@ -1,0 +1,47 @@
+.speech
+{
+    color:black;
+    font-family: Times;
+    size: 0ch;
+    font-size:14;
+    background-color: aliceblue;
+}
+
+.stage-direction 
+{
+    color:black;
+    font-family: Times;
+    size: 0ch;
+    font-size:14;
+    background-color: aliceblue;
+}
+
+.stage-direction.hover
+{
+    color:blue;
+    background-color:bisque;
+}
+
+.name
+{
+    color:black;
+    font-family: Times;
+    size: 0ch;
+    font-size:14;
+    background-color: aliceblue;
+}
+
+.JAMES
+{
+    color: brown;
+}
+
+.LORD-GORING
+{
+    color: chocolate;
+}
+
+.LORD-CAVERSHAM
+{
+    color: cyan;
+}
