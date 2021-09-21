@@ -31,6 +31,12 @@
     background-color:darkred;
 }
 
+.name:hover
+{
+    text-shadow:aliceblue;
+    filter: blur(2px);
+}
+
 .JAMES
 {
     color: brown;
